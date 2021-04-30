@@ -1,3 +1,3 @@
 # atividades-ia
 
-###repositorio criado para versionamento de codigo da disciplina de IA
+### repositorio criado para versionamento de codigo da disciplina de IA
